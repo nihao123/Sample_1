@@ -1,6 +1,0 @@
-D:\迅雷下载\37b27775-3dbd-4884-887d-b3606daff26a\WXGZPTQYYYKFSZ\Sample_1\Sample_1\bin\Sample_1.dll.config
-D:\迅雷下载\37b27775-3dbd-4884-887d-b3606daff26a\WXGZPTQYYYKFSZ\Sample_1\Sample_1\bin\Sample_1.dll
-D:\迅雷下载\37b27775-3dbd-4884-887d-b3606daff26a\WXGZPTQYYYKFSZ\Sample_1\Sample_1\bin\Sample_1.pdb
-D:\迅雷下载\37b27775-3dbd-4884-887d-b3606daff26a\WXGZPTQYYYKFSZ\Sample_1\Sample_1\obj\Debug\Sample_1.csprojResolveAssemblyReference.cache
-D:\迅雷下载\37b27775-3dbd-4884-887d-b3606daff26a\WXGZPTQYYYKFSZ\Sample_1\Sample_1\obj\Debug\Sample_1.dll
-D:\迅雷下载\37b27775-3dbd-4884-887d-b3606daff26a\WXGZPTQYYYKFSZ\Sample_1\Sample_1\obj\Debug\Sample_1.pdb
